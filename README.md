@@ -1,2 +1,2 @@
-# reto30dias
-Participación en el desafío de la comunidad hispanohablante de R #30díasdegráficos
+# Reto 30 días de gráficos en R
+Participación en el desafío #30díasdegráficos de la comunidad hispanohablante de R.
